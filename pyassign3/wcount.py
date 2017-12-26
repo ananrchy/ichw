@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 26 15:42:10 2017
-
-@author: anarchy
-"""
-
 #!/usr/bin/env python3
 
 """wcount.py: count words from an Internet file.
